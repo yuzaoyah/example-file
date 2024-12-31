@@ -3,3 +3,6 @@
 
 
 https://filesamples.com/
+
+
+https://fileinfo.cn/filetype
